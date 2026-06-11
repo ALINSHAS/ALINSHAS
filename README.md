@@ -1,16 +1,27 @@
-## Hi there 👋
+class Alinsha:
+    def __init__(self):
+        self.name           = "Alinsha S"
+        self.location       = "Kollam, Kerala, India"
+        self.degree         = "B.Tech Computer Science Engineering (2026)"
+        self.university     = "College of Engineering Kottarakara, KTU"
 
-<!--
-**ALINSHAS/ALINSHAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.stack = [
+            "Python", "C", "SQL",
+            "HTML", "CSS", "JavaScript",
+            "Figma", "Canva",
+            "Solidity", "Web3.js", "MySQL"
+        ]
 
-Here are some ideas to get you started:
+        self.currently_learning = [
+            "React.js",
+            "Blockchain Development",
+            "Machine Learning & NLP"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.fun_fact = "I design UIs in Figma before writing a single line of code 🎨"
+
+    def motto(self):
+        return "Combining creativity and technology for innovative solutions 🚀"
+
+me = Alinsha()
+print(me.motto())
