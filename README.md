@@ -81,12 +81,6 @@ print(me.motto())
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Databases & Blockchain**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=flat-square&logo=ethereum&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
