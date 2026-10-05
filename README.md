@@ -1,186 +1,296 @@
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alinsha.S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UI/UX%20Designer%20%7C%20Creative%20Coder%20%7C%20CSE%20Student&descAlignY=62&descSize=16" width="100%"/>
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Alinsha+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Creative+Coder;Building+beautiful%2C+user-centered+experiences;Blockchain+%7C+AI+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Alinsha%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20React%20%7C%20Blockchain%20Developer&descAlignY=60&descSize=17" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+React+Developer;Building+practical+and+scalable+applications;Blockchain+%7C+Web3+%7C+Machine+Learning;Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=alinshas&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
 ---
 
-## 🧠 About Me
-
-<table>
-<tr>
-<td valign="top" width="60%">
+## 👨‍💻 About Me
 
 ```python
 class Alinsha:
+
     def __init__(self):
-        self.name       = "Alinsha S"
-        self.location   = "Kollam, Kerala, India"
-        self.degree     = "B.Tech CSE (2026)"
-        self.university = "College of Engineering Kottarakara, KTU"
-
-        self.stack = [
-            "Python", "C", "SQL",
-            "HTML", "CSS", "JavaScript",
-            "Figma", "Canva",
-            "Solidity", "Web3.js", "MySQL"
+        self.role = "Software Developer"
+        self.education = "B.Tech Computer Science & Engineering"
+        self.focus = [
+            "Python",
+            "Django",
+            "React",
+            "REST APIs",
+            "Blockchain",
+            "Machine Learning"
         ]
 
-        self.currently_learning = [
-            "React.js",
-            "Blockchain Development",
-            "Machine Learning & NLP"
-        ]
+    def currently_building(self):
+        return "Full-stack web applications"
 
-        self.fun_fact = (
-            "I design in Figma before "
-            "writing a single line of code 🎨"
-        )
-
-    def motto(self):
-        return "Creativity + Technology = Innovation 🚀"
-
-me = Alinsha()
-print(me.motto())
+    def goal(self):
+        return "Build useful software and keep learning 🚀"
 ```
 
-</td>
-<td valign="top" align="center" width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
-</td>
-</tr>
-</table>
+I'm a **Computer Science graduate and software developer** interested in backend development, full-stack applications, APIs, databases, blockchain, and machine learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
 
-**Web Development**
+### Web & Backend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Design & Tools**
+### Database & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
----
+### Blockchain
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/alinshas">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alinshas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Alinsha's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/alinshas">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinshas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alinshas&theme=tokyonightduo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats"/>
-</div>
+<p>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Activity Graph
+# 🚀 Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alinshas&theme=tokyonight&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+<!-- ===================== PROJECT 1 ===================== -->
 
----
+## 🗳️ SecureVote
 
-## 🏆 Trophy Wall
+**Blockchain-Based Biometric E-Voting System**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alinshas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
+A secure electronic voting platform combining biometric authentication, OTP verification, wallet authentication, and blockchain technology.
 
----
+**Tech Stack**
 
-## 💼 Featured Projects
+`Python` `Django` `JavaScript` `Solidity` `Web3.js` `Ethereum` `Ganache` `MySQL`
 
-<div align="center">
+**Key Features**
 
-| Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| [🤖 AI Job Management Platform](https://github.com/alinshas) | Python • ML • NLP • MySQL • HTML/CSS | AI-powered job-role matching engine using NLP; responsive job search & application tracking dashboard with secure MySQL backend |
-| [🗳️ SecureVote – Blockchain E-Voting](https://github.com/alinshas) | Solidity • Web3.js • Ethereum • Ganache • JS | Facial-authentication voter verification; tamper-proof smart contracts on Ethereum; fully tested on Ganache blockchain network |
-| [🌐 Personal Portfolio Website](https://alinshas.github.io/my-website/) | HTML • CSS • JavaScript | Responsive portfolio showcasing UI/UX works & projects; clean layout with smooth UX and mobile-first design |
+- Facial biometric voter verification
+- OTP-based authentication
+- MetaMask wallet authentication
+- Smart-contract-based vote recording
+- Prevention of duplicate voting
+- Voter and candidate management
+- Election administration dashboard
 
-</div>
+**Architecture**
 
----
-
-## 🎖️ Achievements & Certificates
-
-<div align="center">
-
-| 🏅 | Achievement |
-|:--:|:------------|
-| 🐍 | **Python Bootcamp** — Lets Upgrade \| May 2025 |
-| 🌐 | **HTML and CSS Certification** — Lets Upgrade \| July 2025 |
-| 🐙 | **Workshop on Git & GitHub** — FOSS VJCET \| May 2023 |
-| 📐 | **Basics of AutoCAD & SketchUP** — TECHMAGI × IIT Kharagpur \| Jan 2023 |
-| ⚡ | **Self Driving Electric Vehicles** — TECHMAGI × IIT Kharagpur \| Jan 2023 |
-| 🔋 | **Foundation of Electric & Hybrid Vehicles** — TECHMAGI × IIT Delhi \| Nov 2023 |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year |
-|:------:|:-----------:|:----:|
-| B.Tech — Computer Science & Engineering | College of Engineering Kottarakara, APJ Abdul Kalam Technological University (KTU) | 2022 – 2026 |
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```
-Blockchain Development  ->  Solidity, Web3.js, Smart Contracts, DApps
-Machine Learning        ->  NLP, Scikit-learn, Model Deployment
-Frontend Frameworks     ->  React.js, Tailwind CSS
-UI/UX Advanced          ->  Prototyping, Design Systems, Accessibility
+```text
+Frontend → Django/API → Authentication → Web3.js → Smart Contract → Blockchain
 ```
 
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/alinshas)
+
 ---
 
-## 🤝 Connect With Me
+## 🤖 AI Job Management Platform
+
+**AI-Powered Job Search & Management System**
+
+A web application designed to help users discover suitable job opportunities using AI-based job-role matching and manage their applications.
+
+**Tech Stack**
+
+`Python` `Machine Learning` `NLP` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Key Features**
+
+- AI-powered job-role matching
+- NLP-based job analysis
+- Job search and filtering
+- Application tracking
+- User dashboard
+- MySQL database integration
+
+**Architecture**
+
+```text
+User → Web Interface → Python Backend → NLP/ML → MySQL
+```
+
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/alinshas)
+
+---
+
+## 🌐 Personal Portfolio Website
+
+**Responsive Developer Portfolio**
+
+A responsive personal portfolio designed to showcase projects, technical skills, education, and professional information.
+
+**Tech Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+**Key Features**
+
+- Responsive design
+- Mobile-friendly layout
+- Project showcase
+- Skills section
+- Contact section
+- Clean and minimal interface
+
+**Architecture**
+
+```text
+HTML → CSS → JavaScript → GitHub Pages
+```
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Website-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://alinshas.github.io/my-website/)
+
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/alinshas)
+
+---
+
+## 📚 Django CRUD & REST API Projects
+
+**Backend Applications with Django**
+
+A collection of Django applications developed while learning backend development, database operations, CRUD functionality, and REST API development.
+
+**Tech Stack**
+
+`Python` `Django` `Django REST Framework` `MySQL` `SQLite` `Postman`
+
+**Key Features**
+
+- CRUD operations
+- Django models and views
+- HTML templates
+- Form handling
+- Database integration
+- REST API development
+- API testing with Postman
+
+**Architecture**
+
+```text
+Client → Django → REST API → Database
+```
+
+[![GitHub](https://img.shields.io/badge/View%20Projects-GitHub-181717?style=flat-square&logo=github)](https://github.com/alinshas)
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinsha-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=githubpages&logoColor=white)](https://alinshas.github.io/my-website/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alinshaalinsha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alinshas)
+<a href="https://github.com/alinshas">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alinshas&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinshas&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages"/>
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=alinshas&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alinshas&bg_color=0d1117&color=58a6ff&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+Django REST Framework
+React.js
+REST API Development
+Blockchain / Web3
+Machine Learning & NLP
+```
+
+---
+
+# 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+
+College of Engineering Kottarakara  
+APJ Abdul Kalam Technological University (KTU)  
+**2022 – 2026**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/alinshas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alinsha-s">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://alinshas.github.io/my-website/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:alinshaalinsha@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Build • Learn • Create • Improve 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=120&section=footer" width="100%"/>
+
+</div>
